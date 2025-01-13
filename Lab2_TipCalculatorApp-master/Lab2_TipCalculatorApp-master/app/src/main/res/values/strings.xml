@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="calculate_tip">Tính tiền Tip</string>
+    <string name="bill_amount">Tổng tiền</string>
+    <string name="how_was_the_service">Tip (%)</string>
+    <string name="round_up_tip">Làm tròn tiền tip?</string>
+    <string name="tip_amount">Tổng tiền tip: %s</string>
+</resources>
